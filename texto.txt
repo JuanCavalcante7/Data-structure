@@ -1,0 +1,30 @@
+estrutura dados arvore pilha fila
+algoritmo busca ordenacao analise desempenho
+computacao ciencia tecnologia informacao sistema
+programacao orientada objetos classe metodo atributo
+inteligencia artificial aprendizado maquina modelo
+estrutura lista arvore grafo pilha fila
+sistema operacional memoria processo tarefa
+rede computadores protocolo pacote roteador
+banco dados tabela indice consulta registro
+engenharia software arquitetura projeto codigo
+linguagem programacao variavel funcao parametro
+estrutura dados arvore binaria balanceamento
+algoritmo busca binaria sequencial comparacao
+programacao modular funcao retorno variavel
+desenvolvimento software teste correcao melhoria
+sistema informacao processamento armazenamento dados
+computador processador memoria disco energia
+analise algoritmo tempo espaco eficiencia
+estrutura arvore raiz filho altura nivel
+programacao objeto heranca polimorfismo encapsulamento
+dados informacao conhecimento processamento analise
+rede local servidor cliente comunicacao
+sistema distribuido escalabilidade disponibilidade falha
+banco dados relacional chave primaria indice
+estrutura pilha empilhar desempilhar topo
+estrutura fila enfileirar desenfileirar inicio
+algoritmo grafo caminho busca largura
+programacao java classe objeto metodo
+dados estrutura lista encadeada ponteiro
+computacao teoria linguagem formal compilador
